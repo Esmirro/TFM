@@ -224,26 +224,6 @@ El dashboard operativo (`TFM_Brazil.pbix`, Power BI) permite explorar de forma i
 **Dashboard y visualización**
 - Power BI (`TFM_Brazil.pbix`)
 
----
-
-## ▶️ Cómo reproducir el análisis
-
-1. Clonar el repositorio y situarse en la raíz del proyecto.
-2. Crear un entorno virtual e instalar dependencias:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scipy jupyter
-   ```
-3. Colocar los CSV originales en `data/raw/`.
-4. Abrir y ejecutar `notebooks/01_Analisis_Olist_Completo.ipynb` de principio a fin. El notebook genera automáticamente en `data/processed/`:
-   - `olist_dataset_final.csv`
-   - `rfm_analysis.csv`
-   - `correlation_matrix.csv`
-   - `category_analysis.csv`
-   - `state_analysis.csv`
-5. Abrir `dashboard/TFM_Brazil.pbix` con Power BI Desktop y actualizar el origen de datos si es necesario (`data/processed/olist_dataset_final.csv`).
-
----
-
 ## ✍️ Autor
 
 **Analitica** — Proyecto Final de Máster, Data Analytics.
