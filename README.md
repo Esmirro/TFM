@@ -73,8 +73,6 @@ El dataset se distribuye en **8 tablas relacionales** que fue necesario limpiar,
 | `olist_geolocation_dataset.csv` | Coordenadas por código postal brasileño | 1.000.163 |
 | `product_category_name_translation.csv` | Traducción ES/PT → EN de categorías | 71 |
 
-> ⚠️ **Nota sobre el requisito de "dos fuentes distintas":** estas 8 tablas pertenecen a un único dataset de Kaggle (relacional, no un CSV plano). Si tu convocatoria exige explícitamente dos **fuentes** independientes (no solo dos archivos), conviene confirmarlo con el equipo docente o complementar el análisis con una fuente externa (p. ej. inflación/tipo de cambio del Banco Central de Brasil, o datos poblacionales del IBGE) para reforzar el cumplimiento formal del requisito.
-
 ### Dataset final (tras la unión y transformación)
 
 El archivo `olist_dataset_final.csv` es el resultado de unir las 8 tablas anteriores y aplicar *feature engineering*:
