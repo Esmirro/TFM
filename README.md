@@ -57,7 +57,7 @@ Este TFM tiene como finalidad demostrar el ciclo completo de un proyecto de aná
 
 ## 🗂 Fuente de los datos
 
-Los datos provienen del dataset público **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** (Kaggle), que documenta ~100.000 pedidos realizados entre 2016 y 2018 en el marketplace Olist.
+Los datos provienen del dataset público **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** (Kaggle), que documenta ~100.000 pedidos realizados entre 2017 y 2018 en el marketplace Olist.
 
 El dataset se distribuye en **8 tablas relacionales** que fue necesario limpiar, transformar y unir mediante claves primarias/foráneas (`order_id`, `customer_id`, `product_id`, `seller_id`, código postal):
 
