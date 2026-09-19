@@ -1,4 +1,4 @@
-# 📦 Análisis de E-Commerce Brasileño — Olist (2016-2018)
+# 📦 Análisis de E-Commerce Brasileño — Olist (2017-2018)
 
 **Proyecto Final de Máster (TFM) — Data Analytics**
 
@@ -27,7 +27,7 @@ Análisis integral de más de 112.000 registros de pedidos del marketplace brasi
 
 | Métrica | Valor |
 |---|---|
-| Periodo analizado | Sep 2016 – Sep 2018 (~2 años) |
+| Periodo analizado | 2017 – 2018 (~1 años) |
 | Registros del dataset final | 112.650 filas × 50 columnas |
 | Pedidos únicos | 98.666 |
 | Clientes únicos | 98.666 |
