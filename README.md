@@ -197,8 +197,6 @@ El dashboard operativo (`TFM_Brazil.pbix`, Power BI) permite explorar de forma i
 - Distribución de la satisfacción del cliente (rating) y su relación con la entrega.
 - Segmentos RFM y su aportación al ingreso total.
 
-*(Recomendación para el repositorio: exportar también 2-3 capturas de pantalla del dashboard a `dashboard/screenshots/` para que se pueda valorar sin necesidad de abrir Power BI.)*
-
 ---
 
 ## 💡 Resultados y hallazgos clave
@@ -226,4 +224,4 @@ El dashboard operativo (`TFM_Brazil.pbix`, Power BI) permite explorar de forma i
 
 ## ✍️ Autor
 
-**Analitica** — Proyecto Final de Máster, Data Analytics.
+Alejandro González Acedo — Proyecto Final de Máster, Data Analytics.
